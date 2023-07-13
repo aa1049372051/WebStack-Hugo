@@ -2,28 +2,28 @@
 - taxonomy: 家庭网络
   icon: far fa-star
   links:
-    - title: istore home
-      logo: ""
+    - title: iStoreOS home
+      logo: "iStoreOS.png"
       url: http://192.168.100.1
-      description: istore home
+      description: iStoreOS home
     - title: homeAssistant
-      logo: ""
+      logo: "homeAssistant.png"
       url: http://192.168.100.1:8123
       description: homeAssistant
     - title: 青龙面板
-      logo: ""
+      logo: "ql.png"
       url: http://192.168.100.1:5700
       description: 青龙面板
     - title: emby
-      logo: ""
+      logo: "emby.png"
       url: http://192.168.100.1:8097
       description: emby
     - title: syncthing
-      logo: ""
+      logo: "syncthing.png"
       url: http://192.168.100.1:8384/
       description: syncthing
     - title: zoneMinder
-      logo: ""
+      logo: "zm.jpg"
       url: https://192.168.100.1:8443/zm
       description: zoneMinder
 
