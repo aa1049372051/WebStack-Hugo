@@ -127,6 +127,15 @@
       logo: openai.png
       url: https://chat.openai.com/
       description: Chatgpt
+    - title: ChatGPT-Next-Web
+      logo: openai.png
+      url: http://18.179.31.90:3000/
+      description: ChatGPT-Next-Web
+    - title: vercel  ChatGPT-Next-Web
+      logo: openai.png
+      url: https://chat-gpt-next-web-xi-orpin-85.vercel.app/
+      description: ChatGPT-Next-Web
+
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
