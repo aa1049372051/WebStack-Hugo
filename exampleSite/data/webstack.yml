@@ -36,6 +36,10 @@
           logo: "aria2.png"
           url: http://192.168.100.1/ariang
           description: aria2
+        - title: alist
+          logo: "alist.png"
+          url: http://192.168.100.1:5244
+          description: alist
     - term: 外网
       links:
         - title: iStoreOS home
@@ -69,6 +73,10 @@
           logo: "aria2.png"
           url: http://120.26.14.101:7001/ariang
           description: aria2
+        - title: alist
+          logo: "alist.png"
+          url: http://120.26.14.101:7012
+          description: alist
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
