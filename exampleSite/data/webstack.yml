@@ -40,6 +40,11 @@
           logo: "alist.png"
           url: http://192.168.100.1:5244
           description: alist
+        - title: 访问控制
+          logo: "iStoreOS.png"
+          url: http://192.168.100.1/access.html
+          description: 访问控制
+
     - term: 外网
       links:
         - title: iStoreOS home
