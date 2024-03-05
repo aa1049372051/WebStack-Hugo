@@ -77,6 +77,10 @@
           logo: "alist.png"
           url: http://120.26.14.101:7012
           description: alist
+        - title: 访问控制
+          logo: "iStoreOS.png"
+          url: http://120.26.14.101:7001/access.html
+          description: 访问控制
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
