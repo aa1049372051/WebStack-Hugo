@@ -86,6 +86,10 @@
           logo: "iStoreOS.png"
           url: http://120.26.14.101:7001/access.html
           description: 访问控制
+        - title: ntfy
+          logo: "ntfy.png"
+          url: http://120.26.14.101:7099
+          description: ntfy
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
