@@ -90,6 +90,10 @@
           logo: "ntfy.png"
           url: http://120.26.14.101:7099
           description: ntfy
+        - title: wordpress
+          logo: "wordpress.png"
+          url: http://120.26.14.101:81
+          description: ntfy
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
