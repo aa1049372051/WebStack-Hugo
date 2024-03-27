@@ -94,6 +94,10 @@
           logo: "wordpress.png"
           url: http://120.26.14.101:81
           description: wordpress
+        - title: blossom
+          logo: "blossom.png"
+          url: http://120.26.14.101:7097/editor/#/settingindex
+          description: blossom
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
