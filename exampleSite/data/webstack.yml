@@ -2,6 +2,24 @@
 - taxonomy: 家庭网络
   icon: fas fa-flask fa-lg
   list:
+    - term: 打包
+      links:
+        - title: 小鹿小程序测试
+          logo: "screensizes.png"
+          url: http://120.26.14.101:7015/?shell=1&passwd=84928450
+          description: 小鹿商情小程序试运行
+        - title: 小鹿小程序生产
+          logo: "screensizes.png"
+          url: http://120.26.14.101:7015/?shell=2&passwd=84928450
+          description: 小鹿商情小程序生产
+        - title: 由你配小程序生产
+          logo: "screensizes.png"
+          url: http://120.26.14.101:7015/?shell=4&passwd=84928450
+          description: 由你配小程序生产
+        - title: 清除缓存
+          logo: "screensizes.png"
+          url: http://120.26.14.101:7015/?shell=3&passwd=84928450
+          description: 清除打包缓存
     - term: 局域网
       links:
         - title: iStoreOS home
