@@ -12,6 +12,10 @@
           logo: "screensizes.png"
           url: http://47.122.112.250:7015/?shell=2&passwd=84928450
           description: 小鹿商情小程序生产
+        - title: 由你配小程序试运行
+          logo: "screensizes.png"
+          url: http://47.122.112.250:7015/?shell=5&passwd=84928450
+          description: 由你配小程序试运行
         - title: 由你配小程序生产
           logo: "screensizes.png"
           url: http://47.122.112.250:7015/?shell=4&passwd=84928450
