@@ -24,6 +24,10 @@
           logo: "screensizes.png"
           url: http://47.122.112.250:7015/?shell=3&passwd=84928450
           description: 清除打包缓存
+        - title: 由你配php更新
+          logo: "screensizes.png"
+          url: http://47.122.112.250:7015/?shell=6&passwd=84928450
+          description: 清除打包缓存
     - term: 局域网
       links:
         - title: iStoreOS home
